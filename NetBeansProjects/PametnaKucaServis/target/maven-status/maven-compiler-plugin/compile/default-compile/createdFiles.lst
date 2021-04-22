@@ -1,0 +1,7 @@
+com\mycompany\pametnakucaservis\JAXRSConfiguration.class
+com\mycompany\pametnakucaservis\resources\AlarmResource.class
+com\mycompany\pametnakucaservis\resources\PlanerResource.class
+com\mycompany\pametnakucaservis\resources\ZvucnikResource.class
+entities\Korisnik.class
+authorization\Authorization.class
+com\mycompany\pametnakucaservis\resources\KorisnikResource.class
